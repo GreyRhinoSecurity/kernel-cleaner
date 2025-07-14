@@ -55,4 +55,4 @@ man kernel-cleaner
 
 ## ✨ Author
 
-Created for Elliot by ChatGPT, packaged with ❤️ under [GreyRhinoSecurity](https://github.com/GreyRhinoSecurity)
+Created [GreyRhinoSecurity](https://github.com/GreyRhinoSecurity)
