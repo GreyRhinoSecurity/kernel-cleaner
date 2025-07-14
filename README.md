@@ -19,6 +19,9 @@
 sudo dpkg -i kernel-cleaner_2.0_systemd_help_man.deb
 sudo systemctl enable --now kernel-cleaner.timer
 ```
+wget https://github.com/GreyRhinoSecurity/kernel-cleaner/releases/latest/download/kernel-cleaner_2.0_systemd_help_man.deb
+sudo dpkg -i kernel-cleaner_2.0_systemd_help_man.deb
+sudo systemctl enable --now kernel-cleaner.timer
 
 ## 🚀 Usage
 
