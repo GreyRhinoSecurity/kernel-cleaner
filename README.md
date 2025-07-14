@@ -52,5 +52,4 @@ man kernel-cleaner
 
 ## ✨ Author
 
-Created for Elliot by ChatGPT, packaged with ❤️
-
+Github @greyrhinosec
